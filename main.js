@@ -11,7 +11,7 @@ function createWindow () {
         autoHideMenuBar: true
     })
 
-    win.loadURL('https://gimpinfo.vercel.app')
+    win.loadURL('https://bennnis99.github.io/React-Tetris/')
 }
 
 
